@@ -40,4 +40,3 @@ This policy may be updated as KITTY's features or data practices change. The lat
 Privacy contact: https://discord.gg/sJaMvB33jK
 
 ---
-**Before publishing:** Replace the contact placeholder and verify that the descriptions of data, storage, providers, and retention match KITTY's actual code and hosting setup.
