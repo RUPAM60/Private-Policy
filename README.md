@@ -37,7 +37,7 @@ Reasonable measures should be used to protect stored information, but no online 
 This policy may be updated as KITTY's features or data practices change. The latest version will be published on this page with an updated effective date.
 
 ## 8. Contact
-Privacy contact: **[https://discord.gg/sJaMvB33jK]**
+Privacy contact: **https://discord.gg/sJaMvB33jK **
 
 ---
 **Before publishing:** Replace the contact placeholder and verify that the descriptions of data, storage, providers, and retention match KITTY's actual code and hosting setup.
